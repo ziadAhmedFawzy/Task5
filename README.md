@@ -13,7 +13,7 @@ print('All done')
 
 <h2>2- What does the break statement do?</h2>
 
-<p><u>A. Exits the currently executing loop</u></p>
+<ins>A. Exits the currently executing loop</ins>
 <p>B. Exits the program</p>
 <p>C. Resets the iteration variable to its initial value</p>
 <p>D. Jumps to the "top" of the loop and starts the next iteration</p>
@@ -21,7 +21,7 @@ print('All done')
 <h2>3- What does the continue statement do?</h2>
 <p>A. Exits the program</p>
 <p>B. Exits the currently executing loop</p>
-<p><u>C. Jumps to the "top" of the loop and starts the next iteration</u></p>
+<ins>C. Jumps to the "top" of the loop and starts the next iteration</ins>
 <p>D. Resets the iteration variable to its initial value</p>
 
 <h2>4- What does the following Python program print out?</h2>
@@ -35,5 +35,5 @@ print('All done')
 
 <p>A. 10</p>
 <p>B. 15</p>
-<p><u>C. 5</u></p>
+<ins>C. 5</ins>
 <p>D. 0</p>
