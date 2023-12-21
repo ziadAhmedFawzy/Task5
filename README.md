@@ -6,7 +6,7 @@ while n > 0 :
 print(n)
 print('All done')
 ```
-<p><u>A. This loop will run forever</u></p>
+<u>A. This loop will run forever</u>
 <p>B. The print('All done') statement should be indented four spaces</p>
 <p>C. There should be no colon on the while statement</p>
 <p>D. while is not a Python reserved word</p>
